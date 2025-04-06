@@ -11,19 +11,20 @@
 </div>
 <h3 align="left">Recent Projects</h2>
 
-<div>
-  <div style="text-align: center; margin-bottom: 40px;">
-    <a href="https://huggingface.co/spaces/hesamation/Daily-Papers-Atlas">
-      <img src="assets\paper_atlas.png" alt="Project Preview" width="300px"/>
-    </a>
-    <p><strong>Hugging Face Paper Atlas</strong></p>
-    <p>A demo network of the top research papers in Machine Learning featured in Hugging Face Daily Papers.</p>
-  </div>
-  
-  <div style="text-align: center;">
-    <a href="https://huggingface.co/spaces/hesamation/primer-llm-embedding">
-      <img src="assets\embeddings_blog.png" alt="LLM Embeddings Blog" width="300px"/>
-    </a>
-    <p><strong>Project Name</strong> - Brief description of your project and what it does</p>
-  </div>
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://huggingface.co/spaces/hesamation/Daily-Papers-Atlas">
+        <img src="assets\paper_atlas.png" alt="Project Preview" width="300px"/>
+      </a>
+      <p><strong>Hugging Face Paper Atlas</strong></p>
+      <p>A demo network of the top research papers in Machine Learning featured in Hugging Face Daily Papers.</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://huggingface.co/spaces/hesamation/primer-llm-embedding">
+        <img src="assets\embeddings_blog.png" alt="LLM Embeddings Blog" width="300px"/>
+      </a>
+      <p><strong>Project Name</strong> - Brief description of your project and what it does</p>
+    </td>
+  </tr>
+</table>
