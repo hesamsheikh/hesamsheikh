@@ -9,11 +9,10 @@
     <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge" alt="HuggingFace"/>
   </a>
 </div>
-
 <h3 align="left">Recent Projects</h2>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <div style="text-align: center;">
+<div>
+  <div style="text-align: center; margin-bottom: 40px;">
     <a href="https://huggingface.co/spaces/hesamation/Daily-Papers-Atlas">
       <img src="assets\paper_atlas.png" alt="Project Preview" width="300px"/>
     </a>
