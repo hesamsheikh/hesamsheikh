@@ -7,6 +7,8 @@ I'm focused on post-training LLMs, building applications for AI, and sharing wha
 Check out my [ml-retreat](https://github.com/hesamsheikh/ml-retreat) repository for my collection of resources and notes on advanced ML topics.
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hesamsheikh&theme=blue_green)
+
 <div align="center">
   <a href="https://www.linkedin.com/in/hesamsheikh/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -20,4 +22,6 @@ Check out my [ml-retreat](https://github.com/hesamsheikh/ml-retreat) repository 
     <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge" alt="HuggingFace"/>
   </a>
 </div>
+
+
 
