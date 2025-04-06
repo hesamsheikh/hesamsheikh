@@ -1,4 +1,4 @@
-**Hi, I'm Hesam** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+### Hi, I'm Hesam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 
 I'm an Artificial Intelligence Master's student at the University of Bologna, especializing in large language models (LLMs), deep learning, and open-source AI.
 
