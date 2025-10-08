@@ -1,8 +1,5 @@
 ### Hi, I'm Hesam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 
-I'm an AI Master's student at the University of Bologna, especializing in large language models (LLMs), and open-source development.
-
-I'm focused on post-training LLMs, building applications for AI, and sharing what I learn through [blogs](https://huggingface.co/hesamation) and my [X [Twitter]](https://x.com/Hesamation).
 
 Check out my [ml-retreat](https://github.com/hesamsheikh/ml-retreat) repository for my collection of resources and notes on advanced ML topics.
 
