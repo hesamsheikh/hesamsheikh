@@ -17,6 +17,7 @@
 </div>
 
 # Building Now
+- 🦑 [octogent](https://github.com/hesamsheikh/octogent): A thin orchestration dashboard over Claude Code for managing context, automation, and developer headspace.
 - 🦞 [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases): A community collection of OpenClaw use cases for making life easier.
 
 ## Past Projects
