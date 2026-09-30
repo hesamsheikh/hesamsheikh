@@ -17,10 +17,11 @@
 </div>
 
 # Building Now
-- 🦑 [octogent](https://github.com/hesamsheikh/octogent): A thin orchestration dashboard over Claude Code for managing context, automation, and developer headspace.
-- 🦞 [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases): A community collection of OpenClaw use cases for making life easier.
+- 👾 [tock](https://github.com/hesamsheikh/tock): A simple pet project of how I'd like to focus.
 
 ## Past Projects
+- 🦞 [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases): A community collection of OpenClaw use cases for making life easier.
+- 🦑 [octogent](https://github.com/hesamsheikh/octogent): A thin orchestration dashboard over Claude Code for managing context, automation, and developer headspace.
 - 📖 [super-open-intelligence-book](https://github.com/hesamsheikh/super-open-intelligence-book): A collection of AI open-source repos that are actively being developed.
 - 🐪 [camel](https://github.com/camel-ai/camel): Maintainer, worked on improving the multi-agent architecture and agentic memory.
 - 📘 [ml-retreat](https://github.com/hesamsheikh/ml-retreat): Machine Learning journal for intermediate to advanced topics.
