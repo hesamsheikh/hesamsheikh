@@ -17,6 +17,8 @@
 </div>
 
 # Building Now
+A real-time strategy benchmark for AI agents, played in Stronghold Crusader: Definitive Edition
+- ⚔️ [CrusaderArena](https://github.com/hesamsheikh/CrusaderArena): A real-time strategy benchmark for AI agents, played in Stronghold Crusader: Definitive Edition
 - 👾 [tock](https://github.com/hesamsheikh/tock): A simple pet project of how I'd like to focus.
 
 ## Past Projects
